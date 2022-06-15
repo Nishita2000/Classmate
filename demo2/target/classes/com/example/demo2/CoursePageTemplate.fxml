@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="584.0" prefWidth="776.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo2.CoursePageTemplateController">
+   <top>
+      <AnchorPane prefHeight="186.0" prefWidth="776.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="189.0" fitWidth="776.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fitHeight="190.0" fitWidth="776.0">
+               <image>
+                  <Image url="@bcg.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="29.0" layoutX="19.0" layoutY="20.0">
+               <image>
+                  <Image url="@arrow.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="backButton" layoutX="16.0" layoutY="18.0" mnemonicParsing="false" onAction="#backButtonOnAction" prefHeight="27.0" prefWidth="36.0" style="-fx-background-color: transparent;" />
+         </children>
+      </AnchorPane>
+   </top>
+   <center>
+      <ScrollPane hbarPolicy="NEVER" prefHeight="381.0" prefWidth="627.0" BorderPane.alignment="CENTER">
+         <content>
+            <AnchorPane prefHeight="1800.0" prefWidth="762.0">
+               <children>
+                  <VBox fx:id="postVBox" layoutX="95.0" layoutY="151.0" prefHeight="129.0" prefWidth="590.0" />
+                  <TextField fx:id="postTextField" layoutX="98.0" layoutY="79.0" prefHeight="69.0" prefWidth="555.0" style="-fx-background-radius: 15;" visible="false" />
+                  <Button fx:id="materialButton" layoutX="169.0" layoutY="18.0" mnemonicParsing="false" onAction="#materialButtonOnAction" prefHeight="32.0" prefWidth="134.0" style="-fx-background-color: #7ed9ca;" text="Material" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="peopleButton" layoutX="320.0" layoutY="18.0" mnemonicParsing="false" onAction="#peopleButtonOnAction" prefHeight="32.0" prefWidth="134.0" style="-fx-background-color: #7ed9ca;" text="People" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="submitButton" layoutX="671.0" layoutY="99.0" mnemonicParsing="false" onAction="#submitButtonOnAction" prefHeight="29.0" prefWidth="60.0" style="-fx-background-color: #7ed9ca;" text="Submit" textFill="WHITE" visible="false">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font></Button>
+                  <Button fx:id="discussionButton" layoutX="471.0" layoutY="18.0" mnemonicParsing="false" onAction="#discussionButtonOnAction" prefHeight="32.0" prefWidth="134.0" style="-fx-background-color: #7ed9ca;" text="Discussion" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Button>
+                  <Label fx:id="announcementLabel" alignment="CENTER" layoutX="234.0" layoutY="91.0" prefHeight="17.0" prefWidth="297.0" text="Announcements" textFill="#7ed9ca" visible="false">
+                     <font>
+                        <Font name="Berlin Sans FB" size="20.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="headingLabel" layoutX="6.0" layoutY="-36.0" prefHeight="35.0" prefWidth="179.0" textFill="WHITE">
+                     <font>
+                        <Font name="Berlin Sans FB" size="24.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+         </content>
+      </ScrollPane>
+   </center>
+</BorderPane>

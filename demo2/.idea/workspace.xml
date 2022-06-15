@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d64aed42-2813-489a-b362-9f093d383224" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/PeopleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/PeopleTemplateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/PeopleTemplate.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/AddCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/AddCourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/ChangePassController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/ChangePassController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/CourseTemplateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/CourseTemplateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/HomepageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/HomepageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/JoinCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/JoinCourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/ProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/QandaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/QandaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/QandaTemplateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/QandaTemplateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/ReportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/ReportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/SignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/SignUpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/AddCourse.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/AddCourse.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/ChangePass.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/ChangePass.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Course.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Course.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/CourseTemplate.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/CourseTemplate.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/JoinCourse.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/JoinCourse.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Profile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Profile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Qanda.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Qanda.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/QandaTemplate.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/QandaTemplate.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Register.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Register.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Report.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/Report.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/depositphotos_386115206-stock-illustration-students-virtual-classroom-teacher-using.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/login.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demo2/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo2/login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/AddCourse.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/AddCourse.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/AddCourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/AddCourseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/ChangePass.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/ChangePass.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/ChangePassController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/ChangePassController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/Course.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/Course.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/CourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/CourseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/CourseTemplate.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/CourseTemplate.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/CourseTemplateController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/CourseTemplateController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/Homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/Homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/HomepageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/HomepageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/JoinCourse.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/JoinCourse.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/Profile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/Profile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/ProfileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/ProfileController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/QandaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/QandaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/QandaTemplate.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/QandaTemplate.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/QandaTemplateController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/QandaTemplateController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/Register.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/Register.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/Report.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/Report.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/ReportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/ReportController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/SignUpController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/SignUpController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/depositphotos_386115206-stock-illustration-students-virtual-classroom-teacher-using.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/joinCourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/joinCourseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/qanda.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/qanda.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AdFpvAQRaQZR9KZ0IU35j38uVf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Nishita/IdeaProjects/Jar file/scrypt-1.4.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo2.Main" />
+      <module name="demo2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d64aed42-2813-489a-b362-9f093d383224" name="Changes" comment="" />
+      <created>1655331746784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655331746784</updated>
+      <workItem from="1655331748471" duration="3000" />
+      <workItem from="1655331766362" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

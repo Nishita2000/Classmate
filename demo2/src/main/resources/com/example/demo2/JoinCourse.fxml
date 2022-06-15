@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="584.0" prefWidth="776.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo2.JoinCourseController">
+    <children>
+        <Label layoutX="413.0" layoutY="307.0" prefHeight="21.0" prefWidth="124.0" text="Class Code      :" textFill="#7ed9ca">
+            <font>
+                <Font name="Berlin Sans FB" size="18.0" />
+            </font>
+        </Label>
+        <PasswordField fx:id="classCodeField" layoutX="548.0" layoutY="306.0" prefHeight="25.0" prefWidth="173.0" />
+        <Button fx:id="joinButton" layoutX="540.0" layoutY="384.0" mnemonicParsing="false" onAction="#joinCourseButtonOnAction" prefHeight="30.0" prefWidth="74.0" style="-fx-background-color: #7ed9ca;" text="JOIN" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font></Button>
+        <ImageView fitHeight="584.0" fitWidth="372.0">
+            <image>
+                <Image url="@bcg2.png" />
+            </image>
+        </ImageView>
+        <Label layoutX="413.0" layoutY="263.0" prefHeight="21.0" prefWidth="124.0" text="Course Name :" textFill="#7ed9ca">
+            <font>
+                <Font name="Berlin Sans FB" size="18.0" />
+            </font>
+        </Label>
+        <ImageView fitHeight="109.0" fitWidth="180.0" layoutX="487.0" layoutY="90.0">
+            <image>
+                <Image url="@joinCourse.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="24.0" fitWidth="29.0" layoutX="14.0" layoutY="14.0">
+            <image>
+                <Image url="@arrow.png" />
+            </image>
+        </ImageView>
+        <Button layoutX="10.0" layoutY="11.0" mnemonicParsing="false" onAction="#backButtonOnAction" prefHeight="27.0" prefWidth="36.0" style="-fx-background-color: transparent;" />
+        <Label fx:id="invalidCodeMsg" alignment="CENTER" layoutX="372.0" layoutY="206.0" prefHeight="27.0" prefWidth="406.0" textFill="#7ed9ca" />
+        <TextField fx:id="courseNameField" layoutX="548.0" layoutY="261.0" prefHeight="25.0" prefWidth="173.0" />
+    </children>
+</AnchorPane>
